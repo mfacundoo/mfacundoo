@@ -1,5 +1,13 @@
 ### Hi, Soy Facundo 👋🏼👨🏻‍💻
 
+
+
+
+
+Puedes encontrarme 🌎:
+- [Linkedin](https://www.linkedin.com/in/facundo-moraless/)
+- [Twitter](https://twitter.com/mfacundo_)
+- [Instagram](https://www.instagram.com/m.facundo_/)
 <!--
 **mfacundoo/mfacundoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
