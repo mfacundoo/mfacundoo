@@ -23,6 +23,7 @@
 ## ⚡ Buscando el dominio en estas tecnologías:
 - Python
 - R
+- NoSQL
 - Spark / Numpy / Pandas
 - Tableau
 
