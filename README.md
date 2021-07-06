@@ -6,7 +6,7 @@
 ## 💻 Lenguajes y herramientas
 - Java
 - Spring / Spring Boot
-- OOP / MVC / Maven
+- OOP / MVC
 - MySQL
 - JPA / Hibernate
 - JUnit & Mockito
@@ -14,7 +14,6 @@
 - HTML / CSS / Javascript
 - Bootstrap
 - Git
-- Heroku
 - Eclipse
 
 **📚 Actualmente estoy estudiando Desarrollo de Software**
