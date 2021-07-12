@@ -14,7 +14,6 @@
 - HTML / CSS / Javascript
 - Bootstrap
 - Git
-- Eclipse
 
 **📚 Actualmente estoy estudiando Desarrollo de Software**
 
