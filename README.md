@@ -16,7 +16,7 @@
 
 
 ## ⚡ Buscando el dominio en estas tecnologías:
-- Spring MVC / Spring Boot
+- Spring
 - Hibernate
 - AWS
 - Docker / Kubernetes
