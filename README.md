@@ -8,16 +8,15 @@
 - POO
 - SQL (MySQL)
 - JPA
+- Spring
 - HTML / CSS / Javascript
-- Bootstrap
 - Git
+- Scrum
 
-**📚 Actualmente estoy estudiando Desarrollo de Software**
+**📚 Actualmente estoy estudiando Ingeniera en Sistemas**
 
 
 ## ⚡ Buscando el dominio en estas tecnologías:
-- Spring
-- Hibernate
 - AWS
 - Docker / Kubernetes
 - NoSQL
